@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My personal website</title>
+    <link>https://alexhsu-nlp.github.io/japanese/</link>
+    <description>Recent content on My personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alexhsu-nlp.github.io/japanese/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://alexhsu-nlp.github.io/japanese/contact/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/japanese/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>教育経験</title>
+      <link>https://alexhsu-nlp.github.io/japanese/education/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/japanese/education/</guid>
+      
+        <description>Alex&#39;s education</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexhsu-nlp.github.io/japanese/nonacademic/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/japanese/nonacademic/</guid>
+      
+        <description>Alex&#39;s interests</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://alexhsu-nlp.github.io/japanese/about/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/japanese/about/</guid>
+      
+        <description>Chia-Hsiang Hsu&#39;s information</description>
+      
+    </item>
+    
+    <item>
+      <title>Chemistry</title>
+      <link>https://alexhsu-nlp.github.io/japanese/chemistry/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/japanese/chemistry/</guid>
+      
+        <description>Alex&#39;s chemistry</description>
+      
+    </item>
+    
+    <item>
+      <title>言語学習</title>
+      <link>https://alexhsu-nlp.github.io/japanese/languages/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/japanese/languages/</guid>
+      
+        <description>Alex&#39;s Language Learning</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexhsu-nlp.github.io/japanese/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/japanese/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexhsu-nlp.github.io/japanese/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/japanese/imprint/</guid>
+      
+        <description>Legal Disclosure Information in accordance with the applicable law</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexhsu-nlp.github.io/japanese/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/japanese/projects/</guid>
+      
+        <description>I currently do not have published papers. Below is some brief information of some past time-demanding course projects that can partly showcase my academic capabilities.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

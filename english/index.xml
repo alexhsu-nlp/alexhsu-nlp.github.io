@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My personal website</title>
+    <link>https://alexhsu-nlp.github.io/english/</link>
+    <description>Recent content on My personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://alexhsu-nlp.github.io/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://alexhsu-nlp.github.io/english/about/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/about/</guid>
+      
+        <description>Chia-Hsiang Hsu&#39;s information</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://alexhsu-nlp.github.io/english/contact/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>Detailed Educational Background</title>
+      <link>https://alexhsu-nlp.github.io/english/education/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/education/</guid>
+      
+        <description>Alex&#39;s education</description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://alexhsu-nlp.github.io/english/projects/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/projects/</guid>
+      
+        <description>Alex&#39;s projects</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexhsu-nlp.github.io/english/nonacademic/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/nonacademic/</guid>
+      
+        <description>Alex&#39;s interests</description>
+      
+    </item>
+    
+    <item>
+      <title>Language Learning</title>
+      <link>https://alexhsu-nlp.github.io/english/languages/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/languages/</guid>
+      
+        <description>Alex&#39;s Language Learning</description>
+      
+    </item>
+    
+    <item>
+      <title>Privacies</title>
+      <link>https://alexhsu-nlp.github.io/english/privacies/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/privacies/</guid>
+      
+        <description>Privacy Information</description>
+      
+    </item>
+    
+    <item>
+      <title>Chemistry</title>
+      <link>https://alexhsu-nlp.github.io/english/chemistry/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/chemistry/</guid>
+      
+        <description>Alex&#39;s chemistry</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexhsu-nlp.github.io/english/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alexhsu-nlp.github.io/english/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/imprint/</guid>
+      
+        <description>Legal Disclosure Information in accordance with the applicable law</description>
+      
+    </item>
+    
+  </channel>
+</rss>
