@@ -30,6 +30,17 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://alexhsu-nlp.github.io/nonacademic/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/nonacademic/</guid>
+      
+        <description>Alex&#39;s interests</description>
+      
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://alexhsu-nlp.github.io/about/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
@@ -59,17 +70,6 @@
       <guid>https://alexhsu-nlp.github.io/languages/</guid>
       
         <description>Alex&#39;s Language Learning</description>
-      
-    </item>
-    
-    <item>
-      <title>Other Interests</title>
-      <link>https://alexhsu-nlp.github.io/others/</link>
-      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexhsu-nlp.github.io/others/</guid>
-      
-        <description>Alex&#39;s interests</description>
       
     </item>
     
@@ -212,8 +212,7 @@
       
       <guid>https://alexhsu-nlp.github.io/imprint/</guid>
       
-        <description>Legal Disclosure Information in accordance with the applicable law
-Jane Doe</description>
+        <description>Legal Disclosure Information in accordance with the applicable law</description>
       
     </item>
     
@@ -224,7 +223,7 @@ Jane Doe</description>
       
       <guid>https://alexhsu-nlp.github.io/projects/</guid>
       
-        <description>(To be completed)</description>
+        <description>I currently do not have published papers. Below is some brief information of some past time-demanding course projects that can partly showcase my academic capabilities.</description>
       
     </item>
     
