@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alexhsu-nlp.github.io/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -16,7 +16,13 @@
                 />
   </url><url>
     <loc>https://alexhsu-nlp.github.io/english/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexhsu-nlp.github.io/privacies/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexhsu-nlp.github.io/english/privacies/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexhsu-nlp.github.io/japanese/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
