@@ -1,12 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My blog</title>
+    <title>My personal website</title>
     <link>https://alexhsu-nlp.github.io/</link>
-    <description>Recent content on My blog</description>
+    <description>Recent content on My personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alexhsu-nlp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://alexhsu-nlp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detailed Educational Background</title>
+      <link>https://alexhsu-nlp.github.io/education/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/education/</guid>
+      
+        <description>Alex&#39;s education</description>
+      
+    </item>
+    
+    <item>
+      <title>Detailed Educational Background</title>
+      <link>https://alexhsu-nlp.github.io/english/education/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexhsu-nlp.github.io/english/education/</guid>
+      
+        <description>Alex&#39;s education</description>
+      
+    </item>
+    
     <item>
       <title>Privacies</title>
       <link>https://alexhsu-nlp.github.io/privacies/</link>
@@ -59,28 +81,6 @@
       <guid>https://alexhsu-nlp.github.io/japanese/contact/</guid>
       
         <description>Contact Page</description>
-      
-    </item>
-    
-    <item>
-      <title>Detailed Educational Background</title>
-      <link>https://alexhsu-nlp.github.io/education/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexhsu-nlp.github.io/education/</guid>
-      
-        <description>Alex&#39;s education</description>
-      
-    </item>
-    
-    <item>
-      <title>Detailed Educational Background</title>
-      <link>https://alexhsu-nlp.github.io/english/education/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexhsu-nlp.github.io/english/education/</guid>
-      
-        <description>Alex&#39;s education</description>
       
     </item>
     
